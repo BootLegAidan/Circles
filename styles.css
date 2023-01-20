@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+canvas {
+  width: 95vmin;
+  height: auto;
+}
+code {
+  width: 100%
+}
+@media (min-width: 100vh) {
+  canvas {
+    height: 95vmin;
+    width: auto;
+  }
+}
